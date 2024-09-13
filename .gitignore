@@ -1,0 +1,10 @@
+!.mvn/wrapper/maven-wrapper.jar
+
+.vscode
+
+data/demo.*
+
+target
+
+HELP.md
+mvnw*

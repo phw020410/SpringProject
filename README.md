@@ -1,2 +1,0 @@
-# SpringProject
-Chemical Element Service
